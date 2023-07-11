@@ -12,7 +12,7 @@ ms.localizationpriority: medium
 ---
 
 
-# ShapRange.Decorative property (PowerPoint)
+# ShapeRange.Decorative property (PowerPoint)
 
 Sets or returns the decorative flag for the specified object. Read/write.
 
